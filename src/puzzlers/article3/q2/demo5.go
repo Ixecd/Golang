@@ -15,5 +15,3 @@ func main() {
 	flag.Parse()
 	lib5.Hello(name)
 }
-
-
